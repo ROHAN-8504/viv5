@@ -4,6 +4,7 @@ class vehicle{
     }
     
     
+
     start(){
         console.log(`${this.brand} is started`)
     }
