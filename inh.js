@@ -3,6 +3,7 @@ class vehicle{
         this.brand=brand;
     }
     
+    
     start(){
         console.log(`${this.brand} is started`)
     }
